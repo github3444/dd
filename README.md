@@ -14,9 +14,13 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/githu
 在脚本中可以添加 --mirror 参数切换源。 目前可用的源:
 
 --mirror 'http://cpgs.fdcservers.net/debian/'
+
 --mirror 'http://proyectos.uls.edu.sv/debian/'
+
 --mirror 'http://debian.cabletel.com.mk/debian/'
+
 --mirror 'http://komo.padinet.com/debian/'
+
 --mirror 'http://www.debian.uz/debian/'
 
 安装debian8 示例:
